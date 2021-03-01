@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# Calculator Built With React
+Thanks for checking out my calculator, feel free to fork this project and create your own react calculator.
+The live calculator can be seen here - website
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,5 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# React-Calculator-App
->>>>>>> 5b9e8191387386a801a496645c9d9a3bb1bcc738
