@@ -2,6 +2,8 @@
 Thanks for checking out my calculator, feel free to fork this project and create your own react calculator.
 The live calculator can be seen here - website
 
+![React Calculator](react_calculator.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
